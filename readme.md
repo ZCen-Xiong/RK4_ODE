@@ -1,5 +1,5 @@
 ##fixed-step version fo 4th order Runge-kutta
- #Numerical solution of a system of differential equations (including event functions) using the fourth-order Runge-Kutta method
+#Numerical solution of a system of differential equations (including event functions) using the fourth-order Runge-Kutta method
 *Input parameters:*
 *odefunc*: Function handle for the system of differential equations, in the form f(t, y), where t is the current time and y is the current state vector
  *tspan:* Vector containing the start and end times, in the form [t0, tn]
